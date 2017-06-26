@@ -1,2 +1,2 @@
 # hello-world
-just my first repository
+just my first repository from an inexperienced human.
